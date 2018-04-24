@@ -969,6 +969,17 @@ margin :5px;
   #main-slide .carousel-caption {
     top: 32%;
   }
+  #event-slides h1{
+    font-size: 30px;
+
+  }
+  .section-title{
+    font-size: 20px;
+    color: #00aeda;
+  }
+  .intro-desc{
+    margin-top: 30px;
+  }
   .carousel-indicators {
     font-size: 14px;
   }
@@ -987,6 +998,18 @@ margin :5px;
   #main-slide .carousel-caption {
     top: 32%;
   }
+  #event-slides h1{
+    font-size: 30px;
+
+  }
+  .section-title{
+    font-size: 20px;
+    color: #00aeda;
+  }
+  .intro-desc{
+    margin-top: 30px;
+    text-align: center;
+  }
   #main-slide .carousel-item .carousel-caption .heading {
     font-size: 20px;
   }
@@ -1002,6 +1025,14 @@ margin :5px;
     top: 32%;
   }
 
+  #event-slides h1{
+    font-size: 30px;
+
+  }
+  .section-title{
+    font-size: 20px;
+    color: #00aeda;
+  }
   #indicator{
     font-size: 20px;
   }
