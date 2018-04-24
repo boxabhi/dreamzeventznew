@@ -439,6 +439,15 @@ p{
   margin-top: 0px;
 }
 
+.divider4 {
+  background-image: url('img/5.jpeg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0px;
+}
+
 
 .centered{
   text-align: center;
@@ -949,6 +958,10 @@ margin :5px;
   color: #1dc8cd;
 }
 
+#indicator{
+  font-size: 40px;
+}
+
 
 /* media query */
 
@@ -987,6 +1000,10 @@ margin :5px;
 @media (min-width: 768px) and (max-width: 991px) {
   #main-slide .carousel-caption {
     top: 32%;
+  }
+
+  #indicator{
+    font-size: 20px;
   }
   #main-slide .carousel-item .carousel-caption .heading {
     font-size: 20px;
